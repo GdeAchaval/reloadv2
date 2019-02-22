@@ -1,5 +1,5 @@
 let http = new XMLHttpRequest();
-const ip = "172.22.34.234";
+const ip = "172.22.37.42";
 let url = "http://" + ip + ":9000/image";
 let img = undefined;
 
